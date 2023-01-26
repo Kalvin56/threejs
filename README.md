@@ -3,7 +3,7 @@ Découverte de Three.js
 Three.js est une bibliothèque JavaScript pour créer des scènes 3D dans un navigateur web.
 
 # Installation
-index.html -> ouvrir dans le navigateur.
+index.html -> ouvrir dans le navigateur.  
 shiba.html -> utiliser l'extension "live server" de VScode
 
 # Fichiers
